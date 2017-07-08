@@ -10,6 +10,7 @@ public class MyStoreData extends BaseClass
 	@DataProvider(name="TestData")
 	public static Object[][] getData() 
 	{
+		
 
 		System.out.println("Test Data is getting ready");
 		
